@@ -9,6 +9,8 @@ DESCRIPTION
 
     *   Plack
 
+    *   Plack::Middleware::GepokX::ModSSL
+
     *   RDF::ACL
 
     *   Web::ID

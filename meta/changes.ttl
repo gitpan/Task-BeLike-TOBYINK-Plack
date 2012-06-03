@@ -12,3 +12,10 @@ my:v_2012-150
 	:revision       "2012.150"^^xsd:string ;
 	:file-release   <http://backpan.cpan.org/authors/id/T/TO/TOBYINK/Task-BeLike-TOBYINK-Plack-2012.150.tar.gz> .
 
+my:project :release my:v_2012-155 .
+my:v_2012-155
+	a               :Version ;
+	dc:issued       "2012-06-03"^^xsd:date ;
+	:revision       "2012.155"^^xsd:string ;
+	:file-release   <http://backpan.cpan.org/authors/id/T/TO/TOBYINK/Task-BeLike-TOBYINK-Plack-2012.155.tar.gz> .
+

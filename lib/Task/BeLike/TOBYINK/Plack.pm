@@ -4,7 +4,7 @@ use 5.010;
 
 BEGIN {
 	$Task::BeLike::TOBYINK::Plack::AUTHORITY = 'cpan:TOBYINK';
-	$Task::BeLike::TOBYINK::Plack::VERSION   = '2012.150';
+	$Task::BeLike::TOBYINK::Plack::VERSION   = '2012.155';
 }
 
 __PACKAGE__
@@ -23,6 +23,8 @@ Task installs the following modules:
 =item * Gepok
 
 =item * Plack
+
+=item * Plack::Middleware::GepokX::ModSSL
 
 =item * RDF::ACL
 
